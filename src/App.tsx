@@ -94,8 +94,8 @@ const Popup: React.FC = () => {
             />
           </div>
           <div className="text-center">
-            <h1 className=" font-bold text-3xl text-white">
-              LeetCode <span className="text-whisperOrange">Whisper</span>
+            <h1 className=" font-bold text-2xl text-white">
+              DSA Problem Solver <span className="text-orange-400">AI</span>
             </h1>
             <p className="text-sm text-muted-foreground">
               Your Companion to Beat LeetCode!
@@ -176,7 +176,7 @@ const Popup: React.FC = () => {
             <p className="text-sm">
               Want more features?&nbsp;
               <a
-                href="https://github.com/piyushgarg-dev/leetcode-whisper-chrome-extension/issues/new"
+                href="https://github.com/Abhishekkuntare/DSA_Problem_Solver_Ai"
                 className="text-blue-500 hover:underline"
                 target="_blank"
               >
